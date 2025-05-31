@@ -591,7 +591,7 @@ export default function Home() {
                     <h3 className="font-semibold text-black mb-1">📆 Horário de Funcionamento</h3>
                     <p className="text-white">
                       Segunda a Sexta: 8:00 às 12:00 | 14:00 às 18:00<br />
-                      Sábados: 8:00 à 12:00
+                      Sábados: 8:00 às 12:00
                     </p>
                   </div>
 
